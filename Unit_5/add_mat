@@ -1,0 +1,62 @@
+https://vas3k.ru/blog/machine_learning/
+
+
+MATH&STAT-3. Основы математического анализа
+
++ https://neurohive.io/ru/osnovy-data-science/gradient-descent/
+https://en.wikipedia.org/wiki/Powell%27s_method
+https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4_%D0%9D%D0%B5%D0%BB%D0%B4%D0%B5%D1%80%D0%B0_%E2%80%94_%D0%9C%D0%B8%D0%B4%D0%B0
+https://habr.com/ru/company/ods/blog/448054/
+https://scask.ru/g_book_f_math1.php?id=141
+задачник по математическому анализу (на английском языке), в котором стоит обратить внимание на разделы 1, 5.2, 5.5, 6.3, 6.4, 6.5.
+https://pokrovka11.files.wordpress.com/2012/10/calculus.pdf
+
+MATH&STAT-4. Теория вероятностей
+
+https://elementy.ru/bookclub/chapters/434328/Putevoditel_dlya_vlyublyonnykh_v_matematiku_Glava_iz_knigi
+https://habr.com/ru/post/411659/
+https://hpmor.ru/book/1/20/
+https://habr.com/ru/company/nerepetitor/blog/253755/
+https://habr.com/ru/company/securitycode/blog/273629/
+https://habr.com/ru/post/431706/
+https://habr.com/ru/post/377421/
+https://habr.com/ru/post/351400/
+https://habr.com/ru/company/cloud4y/blog/347952/
+https://habr.com/ru/post/455762/
+
+MATH&STAT-5. Статистика
+
+https://habr.com/ru/post/236503/
+https://www.popmech.ru/science/237232-lozhnye-korrelyatsii-kak-nikolas-keydzh-vliyaet-na-smert-v-basseyne/#part0
+https://www.kaggle.com/crawford/python-groupby-tutorial
+https://nagornyy.me/courses/data-science/intro-to-seaborn/
+
+ML-3A. Регрессия 
+
+https://data.library.virginia.edu/is-r-squared-useless/
+https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture02-linregr.pdf
+https://github.com/esokolov/ml-course-hse/blob/master/2019-fall/lecture-notes/lecture03-linregr.pdf
+
+ML-3B. Классификация 
+
+https://vas3k.ru/blog/machine_learning/
+https://habr.com/ru/post/105220/
+https://habr.com/ru/company/ods/blog/350440/
+https://github.com/esokolov/ml-course-hse
+https://github.com/FUlyankin/Intro_to_DS
+https://github.com/FUlyankin/Intro_to_DS/blob/master/sem08_classif_metr/sem08_clfmetr.pdf
+
+PYTHON-14. Классы и ООП
+
+https://docs.python.org/3/reference/datamodel.html#special-method-names
+
+Проект 4. Компьютер говорит «Нет»
+
+https://kpfu.ru/portal/docs/F_332508739/Lekciya.3..Dispersionnyj.analiz.ANOVA..pdf
+https://scikit-learn.org/stable/auto_examples/model_selection/plot_roc.html
+https://scikit-learn.org/stable/modules/generated/sklearn.metrics.roc_curve.html
+https://datastart.ru/blog/read/utechka-dannyh-v-machine-learning-kak-obnaruzhit-i-izbezhat-ee
+https://analyticsindiamag.com/tips-for-automating-eda-using-pandas-profiling-sweetviz-and-autoviz-in-python/
+https://habr.com/ru/post/502958/
+https://www.machinelearningmastery.ru/machine-learning-data-transforms-for-time-series-forecasting/
+
